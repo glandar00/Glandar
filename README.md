@@ -1,0 +1,2 @@
+# Glandar
+Qbcore
